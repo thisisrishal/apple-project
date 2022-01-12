@@ -34,7 +34,7 @@ nav{
 .welcome{
   width: 100%;
   height: 500px;
-  background-image: url('../../Apple/image/background1.png');
+  background-image: url('https://blogger.googleusercontent.com/img/a/AVvXsEgi1n9UVTuMRdjPQEOMtc8CyWuBzjc2I-75XYFn0EYjQiUeGZ_FiS1TI2v2Nvi8KKbiSdz3h8_lDBto5jO8qk9LeOe5jwOWJbGxJzjeq03CNJ5UKFk6t28t4LtFi0Arq-A0WNwhAzYRgYXOAYoy3IJw4zEKMgTRNVwgKVpOWgq9yBchJuuK93zCrI4BkQ=s320');
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
